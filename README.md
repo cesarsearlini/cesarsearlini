@@ -4,7 +4,7 @@ CTO na **[Minha Biblioteca](https://minhabiblioteca.com.br)**, plataforma brasil
 
 - 🏛️ Lidero o time de tecnologia e a evolução da plataforma Minha Biblioteca
 - 🤖 Criei o Comitê de IA para Desenvolvimento, que define práticas e diretrizes de uso de IA no time de engenharia
-- 🔗 Integrações educacionais: LTI / deep link com plataformas LMS
+- 🔗 Integrações entre produtos financeiros e educacionais
 - 🛠️ Ainda gosto de colocar a mão no código: automações, ferramentas internas e portais de gestão
 - 📍 São Paulo, Brasil
 
