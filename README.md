@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Cesar 👋
 
-CTO na **[Minha Biblioteca](https://minhabiblioteca.com.br)**, plataforma brasileira de biblioteca digital para instituições de ensino, e Founder da **Genyuz**. Atuo na interseção entre **produto, tecnologia e operações** — da estratégia ao código.
+CTO na **[Minha Biblioteca](https://minhabiblioteca.com.br)**, plataforma brasileira de biblioteca digital para instituições de ensino, e Founder da **[Genyuz](https://genyuz.com)**. Atuo na interseção entre **produto, tecnologia e operações** — da estratégia ao código.
 
 - 🏛️ Lidero o time de tecnologia e a evolução da plataforma Minha Biblioteca
 - 🤖 Criei o Comitê de IA para Desenvolvimento, que define práticas e diretrizes de uso de IA no time de engenharia
@@ -18,5 +18,7 @@ CTO na **[Minha Biblioteca](https://minhabiblioteca.com.br)**, plataforma brasil
 
 #### 💬 Fale comigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarsearlini)
 [![Minha Biblioteca](https://img.shields.io/badge/minhabiblioteca.com.br-1F3A5F?style=flat&logo=googlechrome&logoColor=white)](https://minhabiblioteca.com.br)
+[![Genyuz](https://img.shields.io/badge/genyuz.com-24292F?style=flat&logo=googlechrome&logoColor=white)](https://genyuz.com)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cesar.searlini@minhabiblioteca.com.br)
