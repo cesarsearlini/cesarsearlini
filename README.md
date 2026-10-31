@@ -23,6 +23,4 @@ CTO na **[Minha Biblioteca](https://minhabiblioteca.com.br)**, plataforma brasil
 #### 💬 Fale comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesarsearlini)
-[![Minha Biblioteca](https://img.shields.io/badge/minhabiblioteca.com.br-1F3A5F?style=flat&logo=googlechrome&logoColor=white)](https://minhabiblioteca.com.br)
-[![Genyuz](https://img.shields.io/badge/genyuz.com-24292F?style=flat&logo=googlechrome&logoColor=white)](https://genyuz.com)
 [![Email](https://img.shields.io/badge/E--mail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:cesar.searlini@minhabiblioteca.com.br)
